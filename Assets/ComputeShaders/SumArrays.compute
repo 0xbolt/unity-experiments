@@ -1,0 +1,10 @@
+#pragma kernel SumArrays;
+
+RWStructuredBuffer<float> input0Buffer;
+RWStructuredBuffer<float> input1Buffer;
+RWStructuredBuffer<float> outputBuffer;
+
+[numthreads(64, 1, 1)]
+void SumArrays(uint id : SV_DispatchThreadID) {
+    outputBuffer[id] = input0Buffer[id] + input1Buffer[id];
+}

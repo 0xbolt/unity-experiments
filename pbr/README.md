@@ -6,3 +6,4 @@
 - [Moving Frostbite to Physically Based Rendering](https://seblagarde.wordpress.com/wp-content/uploads/2015/07/course_notes_moving_frostbite_to_pbr_v32.pdf)
 - [Crash Course in BRDF Implementation](https://boksajak.github.io/files/CrashCourseBRDF.pdf)
 - [Physics and Math of Shading | SIGGRAPH Courses](https://www.youtube.com/watch?v=j-A0mwsJRmk)
+- [Physically Based Rendering Courses](https://blog.selfshadow.com/publications/)

@@ -7,3 +7,4 @@
 - [Crash Course in BRDF Implementation](https://boksajak.github.io/files/CrashCourseBRDF.pdf)
 - [Physics and Math of Shading | SIGGRAPH Courses](https://www.youtube.com/watch?v=j-A0mwsJRmk)
 - [Physically Based Rendering Courses](https://blog.selfshadow.com/publications/)
+- [GarretGunnell/Disney-PBR](https://github.com/GarrettGunnell/Disney-PBR)

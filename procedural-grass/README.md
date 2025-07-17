@@ -8,3 +8,4 @@
 - https://github.com/EricHu33/UnityGrassIndirectRenderingExample
 - https://github.com/MangoButtermilch/Unity-Grass-Instancer
 - https://github.com/GarrettGunnell/Grass
+- [Blowing from the West: Simulating Wind in 'Ghost of Tsushima'](https://www.youtube.com/watch?v=d61_o4CGQd8)
